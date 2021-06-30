@@ -51,14 +51,3 @@
 {
     width: 70px;
 }
-.copy_right_footer
-{
-    position: fixed;
-    color: grey;
-    bottom: 0;
-    width: 100%;
-    background-color: white;
-    line-height: 3;
-    text-align: center;
-
-}
